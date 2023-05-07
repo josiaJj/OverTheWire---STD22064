@@ -64,7 +64,7 @@ password for Level 9 : **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 `ssh bandit9@bandit.labs.overthewire.org -p 2220`
 
 ## LEVEL 9 -> LEVEL 10
-`strings data.txt | grep "^=.*"``   
+`strings data.txt | grep "^=.*"`   
 password for Level 10 : **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**  
 `ssh bandit10@bandit.labs.overthewire.org -p 2220`  
 
@@ -74,3 +74,25 @@ password for Level 11 : **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
 `ssh bandit11@bandit.labs.overthewire.org -p 2220`  
 
 ## LEVEL 11 -> LEVEL 12
+## LEVEL 12 -> LEVEL 13
+## LEVEL 13 -> LEVEL 14
+## LEVEL 14 -> LEVEL 15
+## LEVEL 15 -> LEVEL 16
+## LEVEL 16 -> LEVEL 17
+## LEVEL 17 -> LEVEL 18
+## LEVEL 18 -> LEVEL 19
+## LEVEL 19 -> LEVEL 20
+## LEVEL 20 -> LEVEL 21
+## LEVEL 21 -> LEVEL 22
+## LEVEL 22 -> LEVEL 23
+## LEVEL 23 -> LEVEL 24
+## LEVEL 24 -> LEVEL 25
+## LEVEL 25 -> LEVEL 26
+## LEVEL 26 -> LEVEL 27
+## LEVEL 27 -> LEVEL 28
+## LEVEL 28 -> LEVEL 29
+## LEVEL 29 -> LEVEL 30
+## LEVEL 30 -> LEVEL 31
+## LEVEL 31 -> LEVEL 32
+## LEVEL 32 -> LEVEL 33
+## LEVEL 33 -> LEVEL 34
