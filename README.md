@@ -50,7 +50,7 @@ password for Level 6 : **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**
 ## LEVEL 6 -> LEVEL 7
 `find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null`
 `cat /var/lib/dpkg/info/bandit7.password`  
-password for Level 7 : **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
+password for Level 7 : **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**  
 `ssh bandit7@bandit.labs.overthewire.org -p 2220`  
 
 ## LEVEL 7 -> LEVEL 8
