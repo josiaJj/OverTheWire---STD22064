@@ -74,7 +74,18 @@ password for Level 11 : **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
 `ssh bandit11@bandit.labs.overthewire.org -p 2220`  
 
 ## LEVEL 11 -> LEVEL 12
+`cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'`  
+password for Level 12 : **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**  
+`ssh bandit12@bandit.labs.overthewire.org -p 2220`
+
 ## LEVEL 12 -> LEVEL 13
+`mkdir /tmp/STD22064dir`
+`xxd -r data.txt > /tmp/STD22064dir/data.txt`
+`cd /tmp/STD22064dir`
+`zcat data.txt | bzcat | zcat | tar xO | tar xO | bzcat | tar xO | zcat`  
+password for Level 13 : **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**  
+`ssh bandit13@bandit.labs.overthewire.org -p 2220`
+
 ## LEVEL 13 -> LEVEL 14
 ## LEVEL 14 -> LEVEL 15
 ## LEVEL 15 -> LEVEL 16
