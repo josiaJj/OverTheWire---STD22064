@@ -30,3 +30,19 @@ password for Level 3 : **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
 `cat ./.hidden`  
 password for Level 4 : **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**  
 `ssh bandit4@bandit.labs.overthewire.org -p 2220`
+
+## LEVEL 4 -> LEVEL 5
+`ls`
+`cd inhere/`
+`ls`
+`cat ./-file07`  
+password for Level 5 : **lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR**  
+`ssh bandit5@bandit.labs.overthewire.org -p 2220`
+
+## LEVEL 5 -> LEVEL 6
+`ls`
+`cd inhere/`
+`find . -type f -readable -size 1033c ! -executable`
+`cat ./maybehere07/.file2`  
+password for Level 6 : **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**  
+`ssh bandit6@bandit.labs.overthewire.org -p 2220`
