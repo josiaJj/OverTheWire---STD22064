@@ -72,3 +72,5 @@ password for Level 10 : **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**
 `base64 -d data.txt`  
 password for Level 11 : **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**  
 `ssh bandit11@bandit.labs.overthewire.org -p 2220`  
+
+## LEVEL 11 -> LEVEL 12
